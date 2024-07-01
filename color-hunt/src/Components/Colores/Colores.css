@@ -1,0 +1,12 @@
+#root {
+    overflow: hidden;
+}
+
+.color {
+    overflow: hidden;
+    height: 50px;
+}
+
+.hex-color {
+    color:rgb(255, 255, 255);
+}

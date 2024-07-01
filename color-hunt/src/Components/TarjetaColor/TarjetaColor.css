@@ -1,0 +1,12 @@
+.color-card {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around
+}
+.color-card .colors {
+    border-radius: 15px;
+    margin: 5px;
+    overflow: hidden;
+}
